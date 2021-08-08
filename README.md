@@ -19,6 +19,9 @@ Achievements & Rewards
 # Tools used
 
 Java 
+
 OpenJDK
+
 Java MySql Connector
+
 MySql
