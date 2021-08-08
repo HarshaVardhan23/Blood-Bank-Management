@@ -63,5 +63,8 @@ Patient Disease - varchar
 
 # Preview 
 
+![image](https://user-images.githubusercontent.com/70513204/128620307-60eef667-043d-4bea-846f-0ceecf425bb7.png)
+
+
 ![image](https://user-images.githubusercontent.com/70513204/128620294-7d693595-f453-4828-832c-f6e9fa511055.png)
 
