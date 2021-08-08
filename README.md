@@ -25,3 +25,40 @@ OpenJDK
 Java MySql Connector
 
 MySql
+
+# SQL Tables
+
+My SQl DataBase Contains :
+# DONOR
+
+Address - varchar
+
+Blood_Group - varchar 
+
+City - varchar 
+
+Contact Number - varchar 
+
+Donor ID - int
+
+First Name - varchar 
+
+Last Name - varchar 
+
+#PATIENT
+
+Address - varchar
+
+Blood_Group - varchar 
+
+City - varchar 
+
+Contact Number - varchar 
+
+Patient ID - int 
+
+First Name - varchar 
+
+Last Name - varchar 
+
+Patient Disease - varchar
